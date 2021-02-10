@@ -1,6 +1,10 @@
 Fruits Name
+
+watermelon
+Jackfruit
 Apple
 Orange
 Banana
 Pear
-
+Dragon Fruit
+Baby fruit
